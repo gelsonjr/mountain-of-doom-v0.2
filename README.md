@@ -10,6 +10,6 @@ v0.2: GUI implemented in swing (current version)
 
 ![Title](/readme_pics_01_title.jpg)
 ![Map](/readme_pics_02_map.jpg)
-![Battle1](/src/readme_pics_03_battle1.jpg)
+![Battle1](/readme_pics_03_battle1.jpg)
 ![Battle2](/readme_pics_04_battle2.jpg)
 ![Battle3](/readme_pics_05_battle3.jpg)
