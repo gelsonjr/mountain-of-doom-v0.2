@@ -1,4 +1,4 @@
-# mountain-of-doom-v-0.2
+# mountain-of-doom-v0.2
 Mountain of Doom
 Turn-Based RPG game in Java, using Swing. All animations done using JPanel components (mainly cardlayout)
 
